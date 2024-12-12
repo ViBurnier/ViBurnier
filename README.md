@@ -42,7 +42,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstr
 <br/>
 
 ### Estatísticas
-<p>
+
 <img
 align="left"
 alt="GitHub Stats"
@@ -57,5 +57,5 @@ Height="180"
 style="padding-right: 10px"
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViBurnier&theme=tokyonight&custom_title=Tecnologia&layout=compact"
 />
-</p>
+
           
