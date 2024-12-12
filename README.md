@@ -1,4 +1,4 @@
-# Olá Mundo! me chamo  Vitor✋
+# Olá Mundo! 
 
 Me chamo Vitor Burnier, tenho 18 anos, sou carioca, moro em Campo Grande RJ. Atualmente, estou cursando Full-Stack no senac. Des de pequeno sou fascinado por tecnologia e jogos.
 
