@@ -1,6 +1,6 @@
 # Olá Mundo! 
 
-Me chamo Vitor Burnier, tenho 18 anos, sou carioca, moro em Campo Grande RJ. Atualmente, estou cursando Full-Stack no senac. Desde pequeno sou fascinado por tecnologia e jogos. Ultimamente estou tentando criar algo realmente útil no dia a dia das pessoas.
+Me chamo Vitor Burnier, tenho 18 anos, sou carioca, moro em Campo Grande RJ. Atualmente, estou cursando Full-Stack no senac. Desde pequeno sou fascinado por tecnologia e jogos. Ultimamente estou indo atrás de criar algo realmente útil no dia a dia das pessoas.
 
 ---
 
