@@ -35,8 +35,16 @@ align="left"
 alt="BootStrap"
 title="BootStrap"
 width="30px"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
-
+style="padding-right: 10px;" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"
+/>
+<img
+align="left"
+alt="PHP"
+title="PHP"
+width="30px"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css"
+ />
 
 <br/>
 <br/>
