@@ -43,8 +43,8 @@ align="left"
 alt="PHP"
 title="PHP"
 width="30px"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css"
- />
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"
+/>
 
 <br/>
 <br/>
