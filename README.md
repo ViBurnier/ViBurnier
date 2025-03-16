@@ -63,7 +63,7 @@ align="left"
 alt="GitHub Stats"
 Height="160"
 style="padding-right: 10px"
-src=""
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViBurnier&theme=tokyonight&custom_title=Tecnologia&layout=compact"
 />
 </p>
           
