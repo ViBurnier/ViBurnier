@@ -63,5 +63,5 @@ src="https://github-readme-stats.vercel.app/api?username=ViBurnier&show_icons=tr
  alt="GitHub Stats"
  Height="200"
  style="padding-right 10px"
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=tokyonight&custom_title=Tecnologia&layout=compact"
+ src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViBurnier&theme=tokyonight&custom_title=Tecnologia&layout=compact"
  />          
