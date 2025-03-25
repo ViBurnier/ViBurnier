@@ -52,7 +52,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.
 ### Estatísticas
 <p>
 <img
-align="left"
+align="right"
 alt="GitHub Stats"
 Height="160"
 style="padding-right: 10px"
