@@ -42,14 +42,14 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstr
 align="left"
 alt="PHP"
 title="PHP"
-width="50px"
+width="40px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"
 />
 <img
 align="left"
 alt="JAVA"
 title="JAVA"
-width="50px"
+width="40px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"
 />
 
