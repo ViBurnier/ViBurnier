@@ -45,6 +45,13 @@ title="PHP"
 width="30px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"
 />
+<img
+align="left"
+alt="JAVA"
+title="JAVA"
+width="30px"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"
+/>
 
 <br/>
 <br/>
