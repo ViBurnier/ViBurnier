@@ -1,8 +1,9 @@
 # Olá Mundo! 
 
 Me chamo Vitor Burnier, tenho 18 anos, moro no Rio de Janeiro. Atualmente, estou cursando Full-Stack no senac.
-
 ---
+01/04/2025 - Aprendendo SOLID, SpringBoot e MVC.
+
 
 ### Linguagens e Tecnologias
 
