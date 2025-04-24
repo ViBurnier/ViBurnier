@@ -1,7 +1,13 @@
 # E aí!Meu nome é Vitor
-
-Bem-vindo ao meu GitHub -- Aqui salvo todos os codigos que vão me tornar um programador melhor. Fique a vontade para dar um fork ❤️
+Bem-vindo ao meu GitHub — Aqui salvo todos os codigos que vão me tornar um programador melhor. Fique a vontade para dar um fork ❤️
 ---
+
+## 👨‍💻 Sobre mim
+Conheci a programação fazendo um trabalho de escola e acabei me apaixonando pela área, descobrindo qual seria meu trabalho dos sonhos.
+Meu primeiro contato com um pc foi em 2016, quando minha bisavó me deu meu primeiro notebook,  1 mês depois de aprender como se mexer num computador
+queria aprender como ele funcionava e descobri como, 1 ano depois com 10 anos, ganhei de presente um ssd que eu mesmo instalei no notebook. Em 2023
+consegui montar meu primerio pc de mesa. Já no ano seguinte... **→ Volte para o início.**
+
 <h4> 
 01/04/2025 - Aprendendo SOLID, SpringBoot e MVC.
 </h4>
