@@ -11,10 +11,6 @@ queria aprender como ele funcionava.
 1 ano depois com 10 anos, ganhei de presente um ssd que eu mesmo instalei no notebook.
 Em 2023 consegui montar meu primerio pc de mesa. Já no ano seguinte... **→ Volte para o início.**
 
-<h4> 
-01/04/2025 - Aprendendo SOLID, SpringBoot e MVC.
-</h4>
-
 ### Linguagens e Tecnologias
 
 <img 
