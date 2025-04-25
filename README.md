@@ -2,7 +2,7 @@
 
 Bem-vindo ao meu GitHub — Fique a vontade para dar um fork ❤️
 ---
-
+<br>
 ## 👨‍💻 Sobre mim
 Conheci a programação fazendo um trabalho de escola e acabei me apaixonando pela área. Descobri ali o que se tornaria o meu trabalho dos sonhos.
 
@@ -11,7 +11,7 @@ queria aprender como ele funcionava.
 
 1 ano depois com 10 anos, ganhei de presente um ssd que eu mesmo instalei no notebook.
 Em 2023 consegui montar meu primerio pc de mesa. Já no ano seguinte... **→ Volte para o início.**
-
+<br>
 ### Linguagens e Tecnologias
 
 <img 
@@ -63,7 +63,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-origina
 
 <br/>
 <br/>
-
+<br>
 ### Estatísticas
 <p>
 <img
