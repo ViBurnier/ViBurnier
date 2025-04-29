@@ -32,20 +32,22 @@ Em 2023 consegui montar meu primerio pc de mesa. Já no ano seguinte... **→ Vo
 />
 <img 
 align="left"
-alt="JavaScipt"
-title="JavaScipt"
-width="30px"
-style="padding-right: 10px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-align="left"
 alt="BootStrap"
 title="BootStrap"
 width="30px"
 style="padding-right: 10px;" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"
 />
+
+<img 
+align="left"
+alt="JavaScipt"
+title="JavaScipt"
+width="30px"
+style="padding-right: 10px;" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+
 <img
 align="left"
 alt="PHP"
