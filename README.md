@@ -3,8 +3,8 @@ Bem-vindo ao meu GitHub — Fique a vontade para dar um fork
 ---
 <br/>
 ## 👨‍💻 Sobre mim
-Conheci a programação fazendo um trabalho de escola e acabei me apaixonando pela área. Descobri ali o que se tornaria o meu trabalho dos sonhos.<br/>
-
+Conheci a programação fazendo um trabalho de escola e acabei me apaixonando pela área. Descobri ali o que se tornaria o meu trabalho dos sonhos.
+<br/>
 Meu primeiro contato com um pc foi em 2016, quando minha **bisavó** me deu meu primeiro notebook,  1 mês depois de aprender como se usa um computador
 queria aprender como ele funcionava.
 
