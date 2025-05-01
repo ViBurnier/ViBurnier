@@ -1,6 +1,5 @@
-# User: Vitor
 
-Bem-vindo ao meu GitHub — Fique a vontade para dar um fork ❤️
+Bem-vindo ao meu GitHub — Fique a vontade para dar um fork 
 ---
 <br/>
 ## 👨‍💻 Sobre mim
