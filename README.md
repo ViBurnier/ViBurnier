@@ -13,8 +13,7 @@ queria aprender como ele funcionava.
 1 ano depois com 10 anos, ganhei de presente um ssd que eu mesmo instalei no notebook.
 Em 2023 consegui montar meu primerio pc de mesa. Já no ano seguinte... **→ Volte para o início.**
 <br/>
-<br/>
-<br/>
+
 ### Linguagens e Tecnologias
 
 <img 
