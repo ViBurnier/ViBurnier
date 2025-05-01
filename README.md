@@ -5,11 +5,15 @@ Bem-vindo ao meu GitHub — Fique a vontade para dar um fork
 ## 👨‍💻 Sobre mim
 Conheci a programação fazendo um trabalho de escola e acabei me apaixonando pela área. Descobri ali o que se tornaria o meu trabalho dos sonhos.
 <br/>
+<br/>
 Meu primeiro contato com um pc foi em 2016, quando minha **bisavó** me deu meu primeiro notebook,  1 mês depois de aprender como se usa um computador
 queria aprender como ele funcionava.
-
+<br/>
+<br/>
 1 ano depois com 10 anos, ganhei de presente um ssd que eu mesmo instalei no notebook.
 Em 2023 consegui montar meu primerio pc de mesa. Já no ano seguinte... **→ Volte para o início.**
+<br/>
+<br/>
 <br/>
 ### Linguagens e Tecnologias
 
