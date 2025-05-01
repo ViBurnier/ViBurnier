@@ -2,7 +2,7 @@
 Bem-vindo ao meu GitHub — Fique a vontade para dar um fork 
 ---
 <br/>
-👨‍💻 **Sobre mim** <br/>
+### 👨‍💻Sobre mim <br/>
 
 Conheci a programação fazendo um trabalho de escola e acabei me apaixonando pela área. Descobri ali o que se tornaria o meu trabalho dos sonhos.
 <br/>
