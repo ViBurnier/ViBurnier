@@ -47,13 +47,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javasc
 
 <img
 align="left"
-alt="PHP"
-title="PHP"
-width="40px"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"
-/>
-<img
-align="left"
 alt="JAVA"
 title="JAVA"
 width="40px"
