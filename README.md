@@ -78,7 +78,7 @@ src="https://github-readme-stats.vercel.app/api?username=ViBurnier&show_icons=tr
 <img
 align="left"
 alt="GitHub Stats"
-Height="160"
+Height="40"
 style="padding-right 10px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"     
 />
