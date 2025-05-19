@@ -75,3 +75,10 @@ src="https://github-readme-stats.vercel.app/api?username=ViBurnier&show_icons=tr
  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViBurnier&theme=tokyonight&custom_title=Tecnologia&layout=compact"
  /> 
 </p>
+<img
+align="left"
+alt="GitHub Stats"
+Height="160"
+style="padding-right 10px"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"     
+/>
