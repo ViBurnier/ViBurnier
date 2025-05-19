@@ -49,14 +49,15 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javasc
 align="left"
 alt="JAVA"
 title="JAVA"
-width="40px"
+width="30px"
+style="padding-right: 10px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"
 />
 <img
 align="left"
 alt="GitHub Stats"
-Height="40"
-style="padding-right 10px"
+Height="30"
+style="padding-right: 10px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"     
 />
 <br/>
