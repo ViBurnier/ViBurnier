@@ -2,13 +2,6 @@
 Bem-vindo ao meu GitHub — Fique a vontade para dar um fork 
 ---
 
-### Sobre mim:
-
-Meu nome é Vitor, tenho 18 anos, comecei a estudar programação há 10 meses. 
-Programar, jogar e ler sobre alguma área da filosofia para depois cair em crise existencial... é o que eu mais gosto.
-
-<br/>
-
 ### Linguagens e Tecnologias
 
 <img 
